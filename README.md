@@ -13,5 +13,7 @@ npm run dev
 
 ## Tech
 [Next.js](https://github.com/zeit/next.js): framework for server-rendered React apps.
+
 [Material-ui](https://github.com/mui-org/material-ui): react components for faster and easier web development.
-[fontfaceobserver](https://github.com/zeit/next.js): webfont loading. Simple, small, and efficient.
+
+[fontfaceobserver](https://github.com/zeit/next.js): webfont loading. Simple, small, and efficient. (BSD License)
